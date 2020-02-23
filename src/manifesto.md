@@ -1,6 +1,6 @@
 # Trivial Technologies: Manifesto
 
-A specter is haunting software—the specter of Emancipation. All of the world's Powers have entered into a holy alliance to exorcise this specter: Journal and Standards Body, Government and Judge, Media and IT Company. Those who would would seek to profit from those that may need knowledge they possess, whether it be monetarily or through increased influence. Those who would profit from entire fields of endeavor remaining accessible only to the elites, barred behind red tape, jargon and time barriers.
+A specter is haunting software—the specter of Emancipation. All of the world's Powers have entered into a holy alliance to exorcise this specter: Journal and Standards Body, Government and Judge, Media and IT Company. Those who would seek to profit from those that may need knowledge they possess, whether it be monetarily or through increased influence. Those who would profit from entire fields of endeavor remaining accessible only to the elites, barred behind red tape, jargon and time barriers.
 
 The open scientific endeavors are ridiculed. Those teaching others to make their own medication in the face of pharmaceutical abuse, when not ignored, are hunted as dangerous criminals. The open source movement only became acceptable when that fundamentally centralizing force became the very corporations it seeks to stop.
 
