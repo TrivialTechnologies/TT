@@ -26,7 +26,7 @@ People looking at the list of certified projects are encouraged to verify the ce
 
 ## Make TT Software
 
-The first step is simple - you must desire for your project to be Trivial. If you have such a desire, insert a phrase into your README, proclaiming to the word that your project strives to achieve the standards of the TT movement, and link to a mirror of your choosing (you should link to the landing page). The rest matters little, if you manage to achieve those standards. The rest of this are but recommendations.
+The first step is simple - you must desire for your project to be Trivial. If you have such a desire, insert a phrase into your README, proclaiming to the world that your project strives to achieve the standards of the TT movement, and link to a mirror of your choosing (you should link to the landing page). The rest matters little, if you manage to achieve those standards. The rest of this are but recommendations.
 
 1. Your commits should be minimally small, and explain why the changes in question were made.
 
