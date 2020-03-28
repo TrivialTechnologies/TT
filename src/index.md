@@ -2,7 +2,7 @@
 
 Trivial Technology (TT) is a new way of doing FOSS, whose goal is to maximally empower the individual, by providing a stepping stone for whatever they may wish to build.
 
-TT is Trivial. A beginner should be able to completely understand it in 2 days. A professional should grasp it in a rainy afternoon. It is not meant to be a plug-and-play black box that one does not open lest they contact some ancient curse.
+TT is Trivial. A beginner should be able to completely understand it in 2 days. A professional should grasp it in a rainy afternoon. It is not meant to be a plug-and-play black box that one does not open lest they contract some ancient curse.
 
 TT is malleable. There are visible hooks for adding features and open points where one can extend functionality. It is not a feature pinata where one has to dance around implementation details.
 
