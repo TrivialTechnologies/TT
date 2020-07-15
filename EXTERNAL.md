@@ -10,6 +10,6 @@
 ## Similarly-Spirited Projects
 
 - https://fourthievesvinegar.org/
-- https://scihub.org/
+- https://mg.scihub.ltd/
 
 
