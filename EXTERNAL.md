@@ -10,4 +10,4 @@
 ## Similarly-Spirited Projects
 
 - https://fourthievesvinegar.org/
-- https://sci-hub.tw/
+- https://sci-hub.st/
