@@ -18,11 +18,7 @@ TT is itself Trivial. It is not meant to be centralized. This hosted instance, w
 
 4. Make any further modifications you wish and deploy it.
 
-In the `external` page, two things may optionally go if you so wish it. You may have a list of other known mirrors on there, in which case you may wish to stay in contact with the maintainers of them. Secondly, you may have a list of certified TT software.
-
-The certification process is simple: find a lay person that has never seen that software, and ask them to spend a weekend (the source of the "2 days" requirement) trying to understand the software in its entirety - including the *API* of the dependencies, the entirety of the license, and the meta knowledge (how to build/deploy it). If you cannot find such a person, you may use a technologist instead, but then the time allowed is restricted to 1/8th (i.e 6 hours). This is a much harsher requirement. Finally, you cannot certify your own projects.,
-
-People looking at the list of certified projects are encouraged to verify the certifications themselves, perhaps to add them to their own list. Scenarios of someone simply certifying whatever they wish, or their own projects, should become blatantly clear, in which case the mirror in question is to be ignored when it comes to that, for they are clearly acting in bad faith.
+In the `external` page, you may have a list of other known mirrors and similarly-spirited projects you want to make more well-known.
 
 ## Make TT Software
 
